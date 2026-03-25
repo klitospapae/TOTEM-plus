@@ -1,2 +1,7 @@
 # macos artefacts
 .DS_Store
+
+# kicad artefacts
+*-backups
+*-cache*
+*.kicad_prl
